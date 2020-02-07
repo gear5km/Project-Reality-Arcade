@@ -1,0 +1,110 @@
+h1 {
+  color:red;
+  font-style: italic;
+}
+
+body{
+  background-color: black;
+  color:white;
+}
+
+.desc{
+  color:yellow;
+}
+
+.portfolio_title{
+	width: 340px;
+	height:240px;
+	border: 4px solid white;
+	font-size:12px;
+	font-family: arial;
+	text-align:center;
+	float: right;
+	margin-top: 15%;
+	margin-right: 23%;
+	text-align: center;
+	padding:15px;
+	background-color: gray;
+	
+}
+
+.ip{
+/* use "text-align:(alignment)" to set the alignment for the declared class*/
+/* use "font-size:value" to set the font size in a class*/
+/* use "vertical-align:(alignment)" to set vertical alignment of the declared class, can be bottom, middle or top e.t.c */
+	text-align:center;
+	font-size:12px;
+	font-family: arial;
+	
+}
+p1{
+	font-size: 8;
+	word-spacing:1;
+}
+
+ph{
+	font-family:arial;
+	font-size:22px;
+}
+
+.menubar{
+	nav-list-style-type:none;
+	color:red;
+	font-size:20px;
+	list-style-type:none;
+	font-family:arial;
+	display: block;
+	background-color: #333;
+    overflow: hidden;
+
+}
+
+li1{
+	margin-left:5%
+}
+li2{
+	margin-left:7%;
+}
+li3{
+	margin-left:9%
+}
+li4
+{
+	margin-left:11%
+}
+
+li5
+{
+	margin-left:13%
+}
+.userinput{
+	margin-left:2%;
+	text-align:left;
+	font-type:italic;
+	color: white;
+	
+}
+
+.submitb{
+	margin-left:17%;
+}
+
+.aboutgame{
+	
+/* USE the "margin" atrribute to set the location of the element. -top/bottom sets distance from previous/next element, -left/right sets distance from side*/
+/* which can be either in #px or expressed as a #% distance from the relevant reference point*/
+
+ /* USE the float attribute to set the where the element will be positioned (left or right) within the page*/
+ margin-top:5px;
+ margin-bottom:5px;
+ margin-right:23%;
+ border: 4px solid white; 
+ padding:25px;
+ width: 500px;
+ height: 120px;
+ float:right;
+ text-align: left;
+ font-family: timesnewroman;
+ background-color: gray;
+ 
+}
