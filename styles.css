@@ -138,9 +138,23 @@ color:black;
 font-family:'Poppins', sans-serif;
 font-size: 35;
 margin-left:10%;
+margin-right:10%
 margin-top : 10%;
 text-align:center;
 }	
+
+.info
+{
+	font-family:'Ubuntu', sans-serif;
+	font-size: 15;
+	color:black;
+	margin-left:5%;
+	margin-right:5%;
+	text-align:center;
+	border: 2px solid black;
+	
+	
+}
 .portfolio_project1
 {
 	font-family:'Ubuntu', sans-serif;
@@ -149,10 +163,17 @@ text-align:center;
 	font-size: 25;
 	
 }
-
+.githublink
+{
+margin-left:45%	;
+font-family: 'Ubuntu', sans-serif;
+color:black;
+	
+}
 .body1
 {
 	background-color:white;
+	
 }
 =======
 >>>>>>> 33ee6c37ada0802f9d07d21b54cd15c167722dda
