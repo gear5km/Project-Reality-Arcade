@@ -13,4 +13,4 @@ v0.13 Changelog
 
 -added 
 
-[Portfolio Website](https://gear5km.github.io/Project-Reality-Arcade/)
+[Portfolio Website](https://gear5km.github.io/Project-Reality-Arcade/index.html)
