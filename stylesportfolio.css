@@ -1,6 +1,9 @@
 
-.desc{
-  color:yellow;
+#headimage{
+	width:100%;
+	height:500px;
+	opacity: 0.7;
+	
 }
 
 .portfolio_title{
@@ -27,7 +30,7 @@
 {
 color:black;
 font-family:'Poppins', sans-serif;
-font-size: 35;
+font-size:35px;
 margin-left:1%;
 margin-right:1%;
 margin-top:1%;
@@ -88,4 +91,19 @@ color:black;
 {
 	background-color:white;
 	
+}
+
+.portfolio_project2
+{
+	font-family:'Ubuntu', sans-serif;
+	color:black;
+	font-size: 15;
+	text-align:center;
+	
+}
+
+#remoteimage{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
 }
